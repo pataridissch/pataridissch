@@ -1,4 +1,7 @@
 ## Hi there 👋
+I'm Georgios Pataridis and i'm an IT teacher at Esperino EPAL Argous.
+
+- 🌱 I’m currently learning Flutter (For school purposes...)
 
 <!--
 **pataridissch/pataridissch** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
